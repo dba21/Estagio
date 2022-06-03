@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\.NET\\BooksListRazor\\BooksListRazor.csproj": {}
+    "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\GitHub\\Estagio\\BooksListRazor\\BooksListRazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\.NET\\BooksListRazor\\BooksListRazor.csproj": {
+    "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\GitHub\\Estagio\\BooksListRazor\\BooksListRazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\.NET\\BooksListRazor\\BooksListRazor.csproj",
+        "projectUniqueName": "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\GitHub\\Estagio\\BooksListRazor\\BooksListRazor.csproj",
         "projectName": "BooksListRazor",
-        "projectPath": "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\.NET\\BooksListRazor\\BooksListRazor.csproj",
+        "projectPath": "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\GitHub\\Estagio\\BooksListRazor\\BooksListRazor.csproj",
         "packagesPath": "C:\\Users\\Dinarte.Azevedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\.NET\\BooksListRazor\\obj\\",
+        "outputPath": "C:\\Users\\Dinarte.Azevedo\\OneDrive - Unipartner IT Services, S.A\\Documents\\GitHub\\Estagio\\BooksListRazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
