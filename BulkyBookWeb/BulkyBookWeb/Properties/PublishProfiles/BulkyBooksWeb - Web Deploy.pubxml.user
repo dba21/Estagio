@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQYYPBW7iJkS85IlyS6uCBgAAAAACAAAAAAAQZgAAAAEAACAAAADVrshQd6ufuky9w1iYgv4h0DpVIxsfP8RznXa98zaHxAAAAAAOgAAAAAIAACAAAAAwYqvosmvL7K/29HvSOjm+YMpPYFOBoPTkMynuF/Cu3oAAAABZ2/aKIxqQzo5Ci7fKhEkRIBxFIJOj34FKveCqaeb2JFMizlaUtMDoJmxkjVrgCJU3N6SmM+FnW/2nqMe80qOnBGpkVtMwAXjff2CDWTMy2KvETmHiQcU2FzE00eWZpYqA4FbWFiR7pw+m51zfZ+dwBFNTVomXWpgqaNy3N/tUS0AAAAD4qtlY2LuH/c/sPqrfJZj3rxTeYRJdddKMQ4FYLMuHUKU9hvyLaGa2yqLffC3SvtoyiSZ/+z1NgDdrPgdaKUdf</EncryptedPassword>
+    <History>True|2022-06-02T14:07:32.1919392Z;False|2022-06-02T14:52:08.4150514+01:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefConnection">
+      <Value>Server=tcp:dotnetrequalifserver.database.windows.net,1433%3bInitial Catalog=dotnet_Requalif_Db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=%2aPortugal22%2a%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="BulkyBookWeb.Data.ApplicationsDBContext">
+      <Value>Server=tcp:dotnetrequalifserver.database.windows.net,1433%3bInitial Catalog=dotnet_Requalif_Db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=%2aPortugal22%2a%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
